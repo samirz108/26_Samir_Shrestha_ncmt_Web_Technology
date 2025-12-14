@@ -1,2 +1,0 @@
-# 27_BIT3rdA_samir_shrestha_web_technology
-college public repo
