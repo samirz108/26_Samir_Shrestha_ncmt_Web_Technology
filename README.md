@@ -1,2 +1,3 @@
-# 27_BIT3rdA_samir_shrestha_web_technology
+# GG ALl
+
 college public repo
