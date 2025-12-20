@@ -25,7 +25,7 @@ Roll no:26
 
 3. *Define the World Wide Web (WWW)?*
 
- Ans: The WWW is a global system for interlinked hypertext documents and multimedia files on the web or web pages that are connected by hyperlinks.
+ Ans:The World Wide Web (WWW or Web) is a vast system of interconnected documents (webpages, videos, files) accessed via the Internet, using hyperlinks to jump between resources, making information easily navigable through web browsers like Chrome or Firefox
 
 *4.Distinguish between a static web page and a dynamic web page?*
  
