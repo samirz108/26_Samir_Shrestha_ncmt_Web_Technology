@@ -110,6 +110,9 @@ This method makes the Internet fast, efficient, and reliable, even if some route
 
 
  8. A startup company wants to host a website that displays the same information to all visitors and requires very low maintenance costs. However, they are being advised to use a dynamic website. As a consultant, would you agree? Justify your answer.
+
+
+
  Ans:
  As a consultant, I would not agree with using a dynamic website in this situation. Since the startup’s website displays the same information to all visitors and needs very low maintenance, a static website is more suitable.
  A static website consists of fixed web pages written in HTML and CSS. These pages do not change unless manually updated. Static websites are cheaper to host, faster to load, and more secure because they do not use databases or server-side scripting. They also require minimal technical maintenance, which is ideal for a startup with limited resources.
@@ -119,6 +122,9 @@ This method makes the Internet fast, efficient, and reliable, even if some route
 
 
  9. A user types www.google.com into their browser, but the browser displays a “Server Not Found” error, even though the internet connection is active. However, accessing the site via 142.250.190.46 works. Diagnose the problem and explain the underlying technology that failed.
+
+
+
  Ans:
  The problem in this situation is a failure of the DNS (Domain Name System).
  When a user types www.google.com, the browser does not understand domain names directly. It first contacts a DNS server to translate the domain name into an IP address (for example, 142.250.190.46). This process is called DNS resolution.
@@ -131,7 +137,10 @@ This method makes the Internet fast, efficient, and reliable, even if some route
 
 
  10. A multinational corporation wants to share sensitive inventory data with specific suppliers but does not want this information available to the general public. Explain which network type (Intranet, Extranet, or Internet) they should implement and why.
- Ans:
+
+
+
+ Ans:  
  The company should implement an Extranet.
  An Extranet is a private network that allows controlled access to external users, such as suppliers, vendors, or business partners. It uses secure authentication methods like usernames, passwords, or VPNs to ensure that only authorized users can access the information.
  An Intranet is used only by internal employees within the organization and cannot be accessed by external suppliers. The Internet, on the other hand, is public and accessible to everyone, which would make sensitive data insecure.
