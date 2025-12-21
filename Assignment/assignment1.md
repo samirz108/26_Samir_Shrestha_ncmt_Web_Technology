@@ -66,10 +66,28 @@ The client displays the webpage to the user.
 
 6.Describe the functions of the following Internet services: Email, FTP, and VoIP.
 
+Email: Lets people send and receive messages over the Internet. You can also attach files like pictures or documents, and the receiver doesn’t have to be online at the same time.
+
+FTP: Used to move files between computers on the Internet. It’s often used to upload or download large files, especially for websites.
+
+VoIP: Lets people make voice calls using the Internet instead of traditional phone networks. It can also include video calls and voice messages.
+
 
 7."The Internet is a network of networks." Elaborate on this statement explaining how packet switching works. 
 
-Ans
+Ans: The Internet is called a “network of networks” because it is made up of many smaller networks (like home, school, and company networks) that are all connected together.
+
+Packet switching works like this:
+
+When you send something on the Internet, it is split into small pieces called packets.
+
+Each packet travels across the Internet through different networks and routers.
+
+Packets may take different paths to reach the destination.
+
+When they arrive, the packets are put back together to form the original message.
+
+This method makes the Internet fast, efficient, and reliable, even if some routes are busy or not working.
 
 Group C: Scenario-Based Questions (5 Marks)
 
