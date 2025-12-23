@@ -1,3 +1,3 @@
-Git Hub:
+Source code : https://github.com/samirz108/PORTFOLIO.git
 
-website:
+website:   https://samirz108.github.io/PORTFOLIO/
